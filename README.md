@@ -55,15 +55,15 @@ portfolio/
 #### Personal Information
 1. **Update contact information** in `index.html`:
    ```html
-   <a href="mailto:your.email@example.com">your.email@example.com</a>
-   <a href="https://linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a>
+   <a href="mailto:abmtaghyan@gmail.com">abmtaghyan@gmail.com</a>
+   <a href="https://linkedin.com/in/taghyan">linkedin.com/in/taghyan</a>
    ```
 
 2. **Add your profile picture**:
    Replace the Font Awesome icon in the profile section with your image:
    ```html
    <div class="profile-image">
-     <img src="path/to/your/photo.jpg" alt="Your Name">
+     <img src="[path/to/your/photo.jpg](https://share.google/images/QnWXpRfARytYocl7L)" alt="taghyan">
    </div>
    ```
 
@@ -123,7 +123,7 @@ The website is fully responsive with breakpoints for:
 1. Push your code to a GitHub repository
 2. Go to repository settings
 3. Enable GitHub Pages from the main branch
-4. Your site will be available at `https://yourusername.github.io/repository-name`
+4. Your site will be available at `(https://theoneandtheonlytaghyan.github.io/taghyan.github.io/)`
 
 ### Netlify
 1. Connect your GitHub repository to Netlify
